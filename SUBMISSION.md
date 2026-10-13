@@ -6,7 +6,7 @@ Envoy: paste a LinkedIn + public Instagram. An AI agent reads the person, writes
 
 ## Technical section — scraping stack (≤ 500 characters)
 
-Apify only: apify/instagram-profile-scraper (bio, links, private flag, 12 latest posts) and harvestapi/linkedin-profile-scraper in no-email mode (bovi/linkedin-profile-scraper as fallback), launched as batched async runs (10 per run, free-plan limits) and polled by a resumable Next.js pipeline on Vercel. Output normalised with zod, emails/phones stripped, images resized with sharp, stored in Supabase. Agents run on Gemini + Groq free tiers via a rate-limited fallback router.
+Apify. Instagram: apify/instagram-profile-scraper (public bio, links, follower counts, private-account flag, latest 12 posts with captions, hashtags, locations, images). LinkedIn: harvestapi/linkedin-profile-scraper in no-cookie, no-email mode (headline, about, experience, education, skills), with bovi/linkedin-profile-scraper as fallback. Run from Next.js API routes on Vercel via apify-client as batched async runs, polled until done. Private Instagram accounts are rejected.
 
 ## Links
 
