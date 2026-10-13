@@ -9,8 +9,8 @@ Paste two official links per person (a LinkedIn profile and a **public** Instagr
 3. **The agents go out on dates.** Each agent asks out its best-fitting candidates; the two agents pick a real outing from both profiles and talk through three acts, **each turn a separate model call that only knows its own person**, with private thoughts, then each agent privately debriefs its person.
 4. **Ranks who fits each person best** from both agents' debriefs plus profile compatibility.
 
-- **Demo (already run, real public figures):** `/pool/demo`
-- **Live (paste your own links):** `/` → `/pool/live`
+- **Demo (already run, 29 real public figures):** https://envoy-agentic-dating.vercel.app/pool/demo
+- **Live (paste your own links):** https://envoy-agentic-dating.vercel.app
 - **How it works (full explanation):** `/how-it-works` and [`docs/HOW_IT_WORKS.md`](docs/HOW_IT_WORKS.md)
 
 > Privacy: the demo uses only public LinkedIn/Instagram data of public figures for a technical exercise. Private Instagram accounts are rejected, emails/phone numbers are stripped, every page is `noindex`, and every profile has a working **Remove this person** button. Not affiliated with anyone shown.

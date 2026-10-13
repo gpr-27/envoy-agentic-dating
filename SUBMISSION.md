@@ -11,6 +11,6 @@ Apify only: apify/instagram-profile-scraper (bio, links, private flag, 12 latest
 ## Links
 
 - YouTube: _to be added after upload_
-- Demo link: _<deployment>/pool/demo_
-- Live website: _<deployment>_
-- GitHub: _<repo>_
+- Demo link: https://envoy-agentic-dating.vercel.app/pool/demo
+- Live website: https://envoy-agentic-dating.vercel.app
+- GitHub: https://github.com/gpr-27/envoy-agentic-dating
