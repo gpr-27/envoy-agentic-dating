@@ -1,0 +1,43 @@
+{
+  "name": "agentic-dating",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "e2e": "playwright test",
+    "e2e:prod": "playwright test --config playwright.prod.config.ts",
+    "seed": "tsx scripts/seed-demo.ts",
+    "export": "tsx scripts/export-demo.ts",
+    "smoke": "tsx scripts/smoke-llm.ts",
+    "import-live": "tsx scripts/import-live.ts"
+  },
+  "dependencies": {
+    "@google/genai": "^2.29.0",
+    "@supabase/supabase-js": "^2.117.3",
+    "apify-client": "^2.25.0",
+    "next": "16.4.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "server-only": "^0.0.1",
+    "sharp": "^0.35.5",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@tailwindcss/turbopack": "^4",
+    "@types/node": "^24.19.2",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.0",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.15",
+    "typescript": "^5",
+    "vitest": "^5.0.4"
+  }
+}

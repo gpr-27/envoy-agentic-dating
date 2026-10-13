@@ -1,0 +1,842 @@
+[
+ {
+  "id": "ACoAAAuIxBMBRJXTYroG0CivOpsJdRb-3CBGjjI",
+  "publicIdentifier": "jsu05",
+  "linkedinUrl": "https://www.linkedin.com/in/jsu05",
+  "firstName": "Jeff",
+  "lastName": "Su",
+  "emails": [],
+  "headline": "Googler-turned-Educator + YouTuber // Equipping professionals with practical skills at scale.",
+  "websites": [
+   "https://www.jeffsu.org/links/?utm_source=linkedin&utm_medium=organic&utm_campaign=bio"
+  ],
+  "openToWork": false,
+  "hiring": false,
+  "premium": true,
+  "influencer": false,
+  "memorialized": false,
+  "creator": true,
+  "location": {
+   "linkedinText": "New York City Metropolitan Area",
+   "countryCode": "US",
+   "parsed": {
+    "text": "New York City, NY, United States",
+    "countryCode": "US",
+    "regionCode": null,
+    "country": "United States",
+    "countryFull": "United States of America",
+    "state": "New York",
+    "city": "New York City"
+   }
+  },
+  "objectUrn": "193512467",
+  "registeredAt": "2012-07-11T03:04:18.640Z",
+  "topSkills": [],
+  "connectionsCount": 2170,
+  "followerCount": 99626,
+  "verified": true,
+  "about": "👋 Hello, I'm Jeff.\n\nI started my career as a consultant helping big companies make more profit. Then at Google, I helped one giant company make (even) more profit.\n\nNow, as one of the largest online educators in the world, I help professionals like you make more progress. 😉\n\n⏭️ Grab my complete AI system: https://coworkacademy.ai/?utm_source=linkedin&utm_medium=text&utm_campaign=about\n\n✅ How I organize my personal life: https://www.pressplay.cc/link/s/72AF851B\n\n🧑🏻‍💻 My productivity system used by 10,000+ Googlers and 30,000+ professionals: https://academy.jeffsu.org/workspace-academy\n\n📬 Sign up for my insanely actionable newsletter: https://www.jeffsu.org/newsletter/",
+  "industry": {
+   "id": 68,
+   "name": "Higher Education"
+  },
+  "currentPosition": [
+   {
+    "position": "Chief Education Officer",
+    "location": null,
+    "employmentType": "Self-employed",
+    "workplaceType": null,
+    "companyName": "Sushie Labs",
+    "companyUniversalName": "sushie-labs",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/sushie-labs/",
+    "companyId": "82485805",
+    "duration": "6 yrs 5 mos",
+    "description": "🌟 My North Star: Creating content that makes a tangible impact on your life.",
+    "skills": null,
+    "startDate": {
+     "month": "Jun",
+     "year": 2020,
+     "text": "Jun 2020"
+    },
+    "endDate": {
+     "text": "Present"
+    }
+   }
+  ],
+  "profileTopEducation": [
+   {
+    "schoolName": "Emory University - Goizueta Business School",
+    "description": "• Magna Cum Laude",
+    "insights": "Grade: 3.80/4.00\nActivities and societies: • HKSA President, Emory Admissions Fellow, Club Lacrosse, Club Basketball, Club Wrestling",
+    "skills": null,
+    "schoolLinkedinUrl": "https://www.linkedin.com/company/3890/",
+    "schoolId": "3890",
+    "degree": "Bachelor of Business Administration (BBA)",
+    "fieldOfStudy": "Finance, Strategy and Management Consulting",
+    "period": "2010 - 2014",
+    "startDate": {
+     "year": 2010,
+     "text": "2010"
+    },
+    "endDate": {
+     "year": 2014,
+     "text": "2014"
+    }
+   }
+  ],
+  "profileActions": [
+   {
+    "label": "Visit my website",
+    "url": "https://www.jeffsu.org/links/?utm_source=linkedin&utm_medium=organic&utm_campaign=bio"
+   }
+  ],
+  "profilePicture": {
+   "url": "https://media.licdn.com/dms/image/v2/D5603AQEmYEH2_P8UzA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711179090909?e=1793232000&v=beta&t=bc9dJJGT0gcwjp60dELGWRJFXG01aD0EClmdhYSC-4E"
+  },
+  "photo": "https://media.licdn.com/dms/image/v2/D5603AQEmYEH2_P8UzA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711179090909?e=1793232000&v=beta&t=bc9dJJGT0gcwjp60dELGWRJFXG01aD0EClmdhYSC-4E",
+  "primaryLocale": {
+   "country": "US",
+   "language": "en"
+  },
+  "services": null,
+  "experience": [
+   {
+    "position": "Chief Education Officer",
+    "location": null,
+    "employmentType": "Self-employed",
+    "workplaceType": null,
+    "companyName": "Sushie Labs",
+    "companyUniversalName": "sushie-labs",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/sushie-labs/",
+    "companyId": "82485805",
+    "duration": "6 yrs 5 mos",
+    "description": "🌟 My North Star: Creating content that makes a tangible impact on your life.",
+    "skills": null,
+    "startDate": {
+     "month": "Jun",
+     "year": 2020,
+     "text": "Jun 2020"
+    },
+    "endDate": {
+     "text": "Present"
+    }
+   },
+   {
+    "position": "Product Marketing Manager",
+    "location": null,
+    "employmentType": "Full-time",
+    "workplaceType": null,
+    "companyName": "Google",
+    "companyUniversalName": "google",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/google/",
+    "companyId": "1441",
+    "duration": "6 yrs 10 mos",
+    "description": "As the App Developer Marketing Lead for Greater China (GRCN), I manage a team of 5 to drive App Campaign revenue (a developer-specific product under Google Ads)\n\nHighlights:\n\n• Established annual tentpole event - Start on Android (应用出海计划) - in 2018 and is currently the largest contributor to our lead generation efforts (responsible for ~15% of our annual app developer leads)\n\n• Developed partnerships with 5 creative agencies across APAC region to deliver ad creatives for our export-focused GRCN developers; average CPI decreased by 52% for our clients while campaign achieves an average ROI of 15x (as measured by incremental quarterly spend/cost)\n\n• 20% Projects: I host at least 1 G2G (Googler-to-Googler) session per quarter with topics around Inbox Management, Productivity, Behavioral Economics, and Health & Fitness; attendee feedback score of 4.95 vs. L&D (Learning and Development) average of 4.6",
+    "skills": null,
+    "experienceGroupId": "bb275daa0a805498fd58c96d7c480a4404d689e0",
+    "startDate": {
+     "month": "Jul",
+     "year": 2018,
+     "text": "Jul 2018"
+    },
+    "endDate": {
+     "month": "Apr",
+     "year": 2025,
+     "text": "Apr 2025"
+    }
+   },
+   {
+    "position": "Key Account Manager",
+    "location": "Hong Kong SAR",
+    "employmentType": null,
+    "workplaceType": null,
+    "companyName": "Google",
+    "companyUniversalName": "google",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/google/",
+    "companyId": "1441",
+    "duration": "2 yrs 1 mo",
+    "description": "Enabled export-focused SMB businesses in Greater China through a mixture of international marketing, sales, and expansion strategies\n• Managed over 10 key accounts in e-Commerce, hospitality, travel, education, and B2B verticals\n• Partnered with C-level stakeholders to develop long-term online and offline marketing strategies with prioritization on sustainable business growth\n• Crafted and currently managing a digital marketing playbook for Chinese B2B businesses\n• Developed scalable online digital marketing training programs tailored for GRCN advertisers\n\nCreated and implemented training program for new Account Managers using interactive videos; program has rolled out across APAC region and ramp-up time has decreased by 30%",
+    "skills": null,
+    "experienceGroupId": "bb275daa0a805498fd58c96d7c480a4404d689e0",
+    "startDate": {
+     "month": "Jul",
+     "year": 2016,
+     "text": "Jul 2016"
+    },
+    "endDate": {
+     "month": "Jul",
+     "year": 2018,
+     "text": "Jul 2018"
+    }
+   },
+   {
+    "position": "Senior Consultant",
+    "location": "New York City Metropolitan Area",
+    "employmentType": null,
+    "workplaceType": null,
+    "companyName": "EY",
+    "companyUniversalName": "ernstandyoung",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/ernstandyoung/",
+    "companyId": "1073",
+    "duration": "2 yrs",
+    "description": "Worked on projects across the U.S and APAC regions.\n\nSelected Project Experiences:\n\n• Performed FTE analysis for \"Big Four\" global advertising company and identified lack of an operations function as area of improvement; implementation of operations group decreased administrative hours by 10%, resulting in $0.5MM in cost-savings\n\n• Managed a Trade Route transition as PMO lead for multinational pharmaceutical company; performed gap analysis by geographical location, conducted interviews to understand financial and timeline feasibility, and established risk management protocols\n\n• Assisted a multinational confectionery, food and beverage conglomerate with supply chain analytics and process improvement. Performed safety stock modelling and calculation and presented findings to senior management. Cost modelling resulted in total cost savings of $11MM, safety stock calculation in projected savings of $3.5MM over two years\n\n• Supported an international education and publishing company in creating and deploying a cloud-based Google Development Product solution for client sales, validation, and approval teams. Documented current state and future state process maps for each stakeholder group. Implementation of solution decreased process cycle time from 3 weeks to 2 days",
+    "skills": null,
+    "startDate": {
+     "month": "Jul",
+     "year": 2014,
+     "text": "Jul 2014"
+    },
+    "endDate": {
+     "month": "Jun",
+     "year": 2016,
+     "text": "Jun 2016"
+    }
+   }
+  ],
+  "education": [
+   {
+    "schoolName": "Emory University - Goizueta Business School",
+    "description": "• Magna Cum Laude",
+    "insights": "Grade: 3.80/4.00\nActivities and societies: • HKSA President, Emory Admissions Fellow, Club Lacrosse, Club Basketball, Club Wrestling",
+    "skills": null,
+    "schoolLinkedinUrl": "https://www.linkedin.com/company/3890/",
+    "schoolId": "3890",
+    "degree": "Bachelor of Business Administration (BBA)",
+    "fieldOfStudy": "Finance, Strategy and Management Consulting",
+    "period": "2010 - 2014",
+    "startDate": {
+     "year": 2010,
+     "text": "2010"
+    },
+    "endDate": {
+     "year": 2014,
+     "text": "2014"
+    }
+   }
+  ],
+  "certifications": [
+   {
+    "title": "Google Analytics Individual Qualification",
+    "issuedBy": "Google",
+    "issuedAt": "Jul 2017",
+    "link": null,
+    "credentialId": null,
+    "issuedByLink": "https://www.linkedin.com/company/1441/"
+   },
+   {
+    "title": "Google AdWords Certification",
+    "issuedBy": "Google",
+    "issuedAt": "Jul 2016",
+    "link": null,
+    "credentialId": null,
+    "issuedByLink": "https://www.linkedin.com/company/1441/"
+   }
+  ],
+  "projects": [],
+  "volunteering": [
+   {
+    "role": "English Tutor",
+    "organizationName": "HandsOn Hong Kong",
+    "duration": "May 2010 - Aug 2010 · 4 mos",
+    "startDate": {
+     "month": "May",
+     "year": 2010,
+     "text": "May 2010"
+    },
+    "endDate": {
+     "month": "Aug",
+     "year": 2010,
+     "text": "Aug 2010"
+    },
+    "description": null,
+    "cause": null
+   }
+  ],
+  "receivedRecommendations": [
+   {
+    "givenBy": "Stephanie Derrick-Hardie",
+    "givenAt": "June 24, 2024",
+    "givenByLink": "https://www.linkedin.com/in/stephanie-derrick-hardie-b3367753",
+    "givenByHeadline": "AI & Web Specialist, helping businesses Automate, Elevate, and Evolve.",
+    "description": "Jeff has a natural talent for connecting with his audience in a fast, clear and informative manner. \n\nAs a Google Workspace user there are so many tools at your fingertips! It can be overwhelming and also counterproductive when you reinvent the wheel every time you could be streamlining the way you do things. \n\nJeff's Workspace toolkit provides a collection of tried-and-tested tips, methods and templates which help to streamline your workflow, and keep your focus where it needs to be.\n\nIf you haven't seen Jeff's Workspace Toolkit, go check it out! https://academy.jeffsu.org/workspace-toolkit"
+   }
+  ],
+  "skills": [
+   {
+    "name": "Analytics",
+    "positions": [
+     "Endorsed by 2 colleagues at Google"
+    ],
+    "endorsements": "13 endorsements"
+   },
+   {
+    "name": "Data Analysis",
+    "positions": [
+     "Endorsed by Gerald Yao and 2 others who are highly skilled at this",
+     "Endorsed by 2 colleagues at Google"
+    ],
+    "endorsements": "11 endorsements"
+   },
+   {
+    "name": "Digital Marketing",
+    "positions": [
+     "Endorsed by 4 colleagues at EY"
+    ],
+    "endorsements": "10 endorsements"
+   },
+   {
+    "name": "Microsoft Office",
+    "endorsements": "18 endorsements"
+   },
+   {
+    "name": "Team Leadership",
+    "endorsements": "13 endorsements"
+   },
+   {
+    "name": "Bilingual",
+    "endorsements": "14 endorsements"
+   },
+   {
+    "name": "Market Research",
+    "endorsements": "11 endorsements"
+   },
+   {
+    "name": "Project Coordination",
+    "endorsements": "7 endorsements"
+   }
+  ],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honorsAndAwards": [
+   {
+    "title": "Beta Gamma Sigma",
+    "issuedBy": "Emory University",
+    "issuedAt": "May 2014",
+    "description": "Honors society - top 10% of graduating class",
+    "associatedWith": "Associated with Emory University - Goizueta Business School",
+    "associatedWithLink": "https://www.linkedin.com/company/3890/"
+   },
+   {
+    "title": "First place in HK Consulting Competition",
+    "issuedBy": "KPMG Hong Kong",
+    "issuedAt": "Aug 2013",
+    "description": "Team placed 1st in KPMG Hong Kong Consulting Competition",
+    "associatedWith": "Associated with KPMG",
+    "associatedWithLink": "https://www.linkedin.com/company/kpmg/"
+   },
+   {
+    "title": "Dean's List (2012 - 2014)",
+    "issuedBy": "Goizueta Business School",
+    "issuedAt": null,
+    "description": null,
+    "associatedWith": "Associated with Emory University - Goizueta Business School",
+    "associatedWithLink": "https://www.linkedin.com/company/3890/"
+   }
+  ],
+  "languages": [
+   {
+    "name": "Cantonese",
+    "proficiency": "Native or bilingual proficiency"
+   },
+   {
+    "name": "English",
+    "proficiency": "Native or bilingual proficiency"
+   },
+   {
+    "name": "Mandarin",
+    "proficiency": "Native or bilingual proficiency"
+   }
+  ],
+  "organizations": [],
+  "causes": [],
+  "featured": {
+   "link": null,
+   "title": null,
+   "subtitle": null,
+   "slides": [
+    {
+     "title": "Boost your productivity by 1% every week with actionable tips delivered straight to your inbox",
+     "subtitle": "Jeff Su",
+     "description": null,
+     "url": "https://www.jeffsu.org/newsletter/"
+    },
+    {
+     "title": "Stop feeling disorganized. Get my curated collection of free toolkits and resources.",
+     "subtitle": "Jeff Su",
+     "description": null,
+     "url": "https://www.jeffsu.org/links/"
+    }
+   ]
+  },
+  "composeOptionType": "UPSELL",
+  "moreProfiles": [
+   {
+    "id": "ACoAABIy6l0BSCeUsSIjqYoJ5Pb-qZ77FD1bVt8",
+    "firstName": "Ali",
+    "lastName": "Abdaal",
+    "position": "👨‍⚕️ Doctor-turned-Entrepreneur + Productivity Expert + YouTuber (6M subs) 📘 New York Times Bestselling Author of “Feel-Good Productivity”",
+    "publicIdentifier": "aliabdaal",
+    "linkedinUrl": "https://www.linkedin.com/in/aliabdaal"
+   }
+  ],
+  "sectionTotals": {
+   "experience": 6,
+   "education": 1,
+   "certifications": 2,
+   "receivedRecommendations": 32,
+   "skills": 18,
+   "courses": 0,
+   "languages": 3,
+   "projects": 0,
+   "volunteering": 1,
+   "publications": 0,
+   "patents": 0,
+   "organizations": 0,
+   "honorsAndAwards": 3,
+   "causes": 0
+  },
+  "interests": [
+   {
+    "interestName": "Top Voices",
+    "elements": [
+     {
+      "title": "Zain Kahn",
+      "subtitle": "Follow me to learn how you can leverage AI to boost your productivity and accelerate your career. Scaled products to 10 Million+ users.",
+      "link": "https://www.linkedin.com/in/zainkahn",
+      "caption": "1,001,439 followers"
+     },
+     {
+      "title": "Ethan Mollick",
+      "subtitle": "Associate Professor at The Wharton School. Author of Co-Existence, coming October 20!",
+      "link": "https://www.linkedin.com/in/emollick",
+      "caption": "436,223 followers"
+     }
+    ]
+   }
+  ],
+  "originalQuery": {
+   "url": "https://www.linkedin.com/in/jsu05"
+  }
+ },
+ {
+  "id": "ACoAAAuIxBMBRJXTYroG0CivOpsJdRb-3CBGjjI",
+  "publicIdentifier": "jsu05",
+  "linkedinUrl": "https://www.linkedin.com/in/jsu05",
+  "firstName": "Jeff",
+  "lastName": "Su",
+  "emails": [],
+  "headline": "Googler-turned-Educator + YouTuber // Equipping professionals with practical skills at scale.",
+  "websites": [
+   "https://www.jeffsu.org/links/?utm_source=linkedin&utm_medium=organic&utm_campaign=bio"
+  ],
+  "openToWork": false,
+  "hiring": false,
+  "premium": true,
+  "influencer": false,
+  "memorialized": false,
+  "creator": true,
+  "location": {
+   "linkedinText": "New York City Metropolitan Area",
+   "countryCode": "US",
+   "parsed": {
+    "text": "New York City, NY, United States",
+    "countryCode": "US",
+    "regionCode": null,
+    "country": "United States",
+    "countryFull": "United States of America",
+    "state": "New York",
+    "city": "New York City"
+   }
+  },
+  "objectUrn": "193512467",
+  "registeredAt": "2012-07-11T03:04:18.640Z",
+  "topSkills": [],
+  "connectionsCount": 2170,
+  "followerCount": 99626,
+  "verified": true,
+  "about": "👋 Hello, I'm Jeff.\n\nI started my career as a consultant helping big companies make more profit. Then at Google, I helped one giant company make (even) more profit.\n\nNow, as one of the largest online educators in the world, I help professionals like you make more progress. 😉\n\n⏭️ Grab my complete AI system: https://coworkacademy.ai/?utm_source=linkedin&utm_medium=text&utm_campaign=about\n\n✅ How I organize my personal life: https://www.pressplay.cc/link/s/72AF851B\n\n🧑🏻‍💻 My productivity system used by 10,000+ Googlers and 30,000+ professionals: https://academy.jeffsu.org/workspace-academy\n\n📬 Sign up for my insanely actionable newsletter: https://www.jeffsu.org/newsletter/",
+  "industry": {
+   "id": 68,
+   "name": "Higher Education"
+  },
+  "currentPosition": [
+   {
+    "position": "Chief Education Officer",
+    "location": null,
+    "employmentType": "Self-employed",
+    "workplaceType": null,
+    "companyName": "Sushie Labs",
+    "companyUniversalName": "sushie-labs",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/sushie-labs/",
+    "companyId": "82485805",
+    "duration": "6 yrs 5 mos",
+    "description": "🌟 My North Star: Creating content that makes a tangible impact on your life.",
+    "skills": null,
+    "startDate": {
+     "month": "Jun",
+     "year": 2020,
+     "text": "Jun 2020"
+    },
+    "endDate": {
+     "text": "Present"
+    }
+   }
+  ],
+  "profileTopEducation": [
+   {
+    "schoolName": "Emory University - Goizueta Business School",
+    "description": "• Magna Cum Laude",
+    "insights": "Grade: 3.80/4.00\nActivities and societies: • HKSA President, Emory Admissions Fellow, Club Lacrosse, Club Basketball, Club Wrestling",
+    "skills": null,
+    "schoolLinkedinUrl": "https://www.linkedin.com/company/3890/",
+    "schoolId": "3890",
+    "degree": "Bachelor of Business Administration (BBA)",
+    "fieldOfStudy": "Finance, Strategy and Management Consulting",
+    "period": "2010 - 2014",
+    "startDate": {
+     "year": 2010,
+     "text": "2010"
+    },
+    "endDate": {
+     "year": 2014,
+     "text": "2014"
+    }
+   }
+  ],
+  "profileActions": [
+   {
+    "label": "Visit my website",
+    "url": "https://www.jeffsu.org/links/?utm_source=linkedin&utm_medium=organic&utm_campaign=bio"
+   }
+  ],
+  "profilePicture": {
+   "url": "https://media.licdn.com/dms/image/v2/D5603AQEmYEH2_P8UzA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711179090909?e=1793232000&v=beta&t=bc9dJJGT0gcwjp60dELGWRJFXG01aD0EClmdhYSC-4E"
+  },
+  "photo": "https://media.licdn.com/dms/image/v2/D5603AQEmYEH2_P8UzA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711179090909?e=1793232000&v=beta&t=bc9dJJGT0gcwjp60dELGWRJFXG01aD0EClmdhYSC-4E",
+  "primaryLocale": {
+   "country": "US",
+   "language": "en"
+  },
+  "services": null,
+  "experience": [
+   {
+    "position": "Chief Education Officer",
+    "location": null,
+    "employmentType": "Self-employed",
+    "workplaceType": null,
+    "companyName": "Sushie Labs",
+    "companyUniversalName": "sushie-labs",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/sushie-labs/",
+    "companyId": "82485805",
+    "duration": "6 yrs 5 mos",
+    "description": "🌟 My North Star: Creating content that makes a tangible impact on your life.",
+    "skills": null,
+    "startDate": {
+     "month": "Jun",
+     "year": 2020,
+     "text": "Jun 2020"
+    },
+    "endDate": {
+     "text": "Present"
+    }
+   },
+   {
+    "position": "Product Marketing Manager",
+    "location": null,
+    "employmentType": "Full-time",
+    "workplaceType": null,
+    "companyName": "Google",
+    "companyUniversalName": "google",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/google/",
+    "companyId": "1441",
+    "duration": "6 yrs 10 mos",
+    "description": "As the App Developer Marketing Lead for Greater China (GRCN), I manage a team of 5 to drive App Campaign revenue (a developer-specific product under Google Ads)\n\nHighlights:\n\n• Established annual tentpole event - Start on Android (应用出海计划) - in 2018 and is currently the largest contributor to our lead generation efforts (responsible for ~15% of our annual app developer leads)\n\n• Developed partnerships with 5 creative agencies across APAC region to deliver ad creatives for our export-focused GRCN developers; average CPI decreased by 52% for our clients while campaign achieves an average ROI of 15x (as measured by incremental quarterly spend/cost)\n\n• 20% Projects: I host at least 1 G2G (Googler-to-Googler) session per quarter with topics around Inbox Management, Productivity, Behavioral Economics, and Health & Fitness; attendee feedback score of 4.95 vs. L&D (Learning and Development) average of 4.6",
+    "skills": null,
+    "experienceGroupId": "bb275daa0a805498fd58c96d7c480a4404d689e0",
+    "startDate": {
+     "month": "Jul",
+     "year": 2018,
+     "text": "Jul 2018"
+    },
+    "endDate": {
+     "month": "Apr",
+     "year": 2025,
+     "text": "Apr 2025"
+    }
+   },
+   {
+    "position": "Key Account Manager",
+    "location": "Hong Kong SAR",
+    "employmentType": null,
+    "workplaceType": null,
+    "companyName": "Google",
+    "companyUniversalName": "google",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/google/",
+    "companyId": "1441",
+    "duration": "2 yrs 1 mo",
+    "description": "Enabled export-focused SMB businesses in Greater China through a mixture of international marketing, sales, and expansion strategies\n• Managed over 10 key accounts in e-Commerce, hospitality, travel, education, and B2B verticals\n• Partnered with C-level stakeholders to develop long-term online and offline marketing strategies with prioritization on sustainable business growth\n• Crafted and currently managing a digital marketing playbook for Chinese B2B businesses\n• Developed scalable online digital marketing training programs tailored for GRCN advertisers\n\nCreated and implemented training program for new Account Managers using interactive videos; program has rolled out across APAC region and ramp-up time has decreased by 30%",
+    "skills": null,
+    "experienceGroupId": "bb275daa0a805498fd58c96d7c480a4404d689e0",
+    "startDate": {
+     "month": "Jul",
+     "year": 2016,
+     "text": "Jul 2016"
+    },
+    "endDate": {
+     "month": "Jul",
+     "year": 2018,
+     "text": "Jul 2018"
+    }
+   },
+   {
+    "position": "Senior Consultant",
+    "location": "New York City Metropolitan Area",
+    "employmentType": null,
+    "workplaceType": null,
+    "companyName": "EY",
+    "companyUniversalName": "ernstandyoung",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/ernstandyoung/",
+    "companyId": "1073",
+    "duration": "2 yrs",
+    "description": "Worked on projects across the U.S and APAC regions.\n\nSelected Project Experiences:\n\n• Performed FTE analysis for \"Big Four\" global advertising company and identified lack of an operations function as area of improvement; implementation of operations group decreased administrative hours by 10%, resulting in $0.5MM in cost-savings\n\n• Managed a Trade Route transition as PMO lead for multinational pharmaceutical company; performed gap analysis by geographical location, conducted interviews to understand financial and timeline feasibility, and established risk management protocols\n\n• Assisted a multinational confectionery, food and beverage conglomerate with supply chain analytics and process improvement. Performed safety stock modelling and calculation and presented findings to senior management. Cost modelling resulted in total cost savings of $11MM, safety stock calculation in projected savings of $3.5MM over two years\n\n• Supported an international education and publishing company in creating and deploying a cloud-based Google Development Product solution for client sales, validation, and approval teams. Documented current state and future state process maps for each stakeholder group. Implementation of solution decreased process cycle time from 3 weeks to 2 days",
+    "skills": null,
+    "startDate": {
+     "month": "Jul",
+     "year": 2014,
+     "text": "Jul 2014"
+    },
+    "endDate": {
+     "month": "Jun",
+     "year": 2016,
+     "text": "Jun 2016"
+    }
+   }
+  ],
+  "education": [
+   {
+    "schoolName": "Emory University - Goizueta Business School",
+    "description": "• Magna Cum Laude",
+    "insights": "Grade: 3.80/4.00\nActivities and societies: • HKSA President, Emory Admissions Fellow, Club Lacrosse, Club Basketball, Club Wrestling",
+    "skills": null,
+    "schoolLinkedinUrl": "https://www.linkedin.com/company/3890/",
+    "schoolId": "3890",
+    "degree": "Bachelor of Business Administration (BBA)",
+    "fieldOfStudy": "Finance, Strategy and Management Consulting",
+    "period": "2010 - 2014",
+    "startDate": {
+     "year": 2010,
+     "text": "2010"
+    },
+    "endDate": {
+     "year": 2014,
+     "text": "2014"
+    }
+   }
+  ],
+  "certifications": [
+   {
+    "title": "Google Analytics Individual Qualification",
+    "issuedBy": "Google",
+    "issuedAt": "Jul 2017",
+    "link": null,
+    "credentialId": null,
+    "issuedByLink": "https://www.linkedin.com/company/1441/"
+   },
+   {
+    "title": "Google AdWords Certification",
+    "issuedBy": "Google",
+    "issuedAt": "Jul 2016",
+    "link": null,
+    "credentialId": null,
+    "issuedByLink": "https://www.linkedin.com/company/1441/"
+   }
+  ],
+  "projects": [],
+  "volunteering": [
+   {
+    "role": "English Tutor",
+    "organizationName": "HandsOn Hong Kong",
+    "duration": "May 2010 - Aug 2010 · 4 mos",
+    "startDate": {
+     "month": "May",
+     "year": 2010,
+     "text": "May 2010"
+    },
+    "endDate": {
+     "month": "Aug",
+     "year": 2010,
+     "text": "Aug 2010"
+    },
+    "description": null,
+    "cause": null
+   }
+  ],
+  "receivedRecommendations": [
+   {
+    "givenBy": "Stephanie Derrick-Hardie",
+    "givenAt": "June 24, 2024",
+    "givenByLink": "https://www.linkedin.com/in/stephanie-derrick-hardie-b3367753",
+    "givenByHeadline": "AI & Web Specialist, helping businesses Automate, Elevate, and Evolve.",
+    "description": "Jeff has a natural talent for connecting with his audience in a fast, clear and informative manner. \n\nAs a Google Workspace user there are so many tools at your fingertips! It can be overwhelming and also counterproductive when you reinvent the wheel every time you could be streamlining the way you do things. \n\nJeff's Workspace toolkit provides a collection of tried-and-tested tips, methods and templates which help to streamline your workflow, and keep your focus where it needs to be.\n\nIf you haven't seen Jeff's Workspace Toolkit, go check it out! https://academy.jeffsu.org/workspace-toolkit"
+   }
+  ],
+  "skills": [
+   {
+    "name": "Analytics",
+    "positions": [
+     "Endorsed by 2 colleagues at Google"
+    ],
+    "endorsements": "13 endorsements"
+   },
+   {
+    "name": "Data Analysis",
+    "positions": [
+     "Endorsed by Gerald Yao and 2 others who are highly skilled at this",
+     "Endorsed by 2 colleagues at Google"
+    ],
+    "endorsements": "11 endorsements"
+   },
+   {
+    "name": "Digital Marketing",
+    "positions": [
+     "Endorsed by 4 colleagues at EY"
+    ],
+    "endorsements": "10 endorsements"
+   },
+   {
+    "name": "Microsoft Office",
+    "endorsements": "18 endorsements"
+   },
+   {
+    "name": "Team Leadership",
+    "endorsements": "13 endorsements"
+   },
+   {
+    "name": "Bilingual",
+    "endorsements": "14 endorsements"
+   },
+   {
+    "name": "Market Research",
+    "endorsements": "11 endorsements"
+   },
+   {
+    "name": "Project Coordination",
+    "endorsements": "7 endorsements"
+   }
+  ],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honorsAndAwards": [
+   {
+    "title": "Beta Gamma Sigma",
+    "issuedBy": "Emory University",
+    "issuedAt": "May 2014",
+    "description": "Honors society - top 10% of graduating class",
+    "associatedWith": "Associated with Emory University - Goizueta Business School",
+    "associatedWithLink": "https://www.linkedin.com/company/3890/"
+   },
+   {
+    "title": "First place in HK Consulting Competition",
+    "issuedBy": "KPMG Hong Kong",
+    "issuedAt": "Aug 2013",
+    "description": "Team placed 1st in KPMG Hong Kong Consulting Competition",
+    "associatedWith": "Associated with KPMG",
+    "associatedWithLink": "https://www.linkedin.com/company/kpmg/"
+   },
+   {
+    "title": "Dean's List (2012 - 2014)",
+    "issuedBy": "Goizueta Business School",
+    "issuedAt": null,
+    "description": null,
+    "associatedWith": "Associated with Emory University - Goizueta Business School",
+    "associatedWithLink": "https://www.linkedin.com/company/3890/"
+   }
+  ],
+  "languages": [
+   {
+    "name": "Cantonese",
+    "proficiency": "Native or bilingual proficiency"
+   },
+   {
+    "name": "English",
+    "proficiency": "Native or bilingual proficiency"
+   },
+   {
+    "name": "Mandarin",
+    "proficiency": "Native or bilingual proficiency"
+   }
+  ],
+  "organizations": [],
+  "causes": [],
+  "featured": {
+   "link": null,
+   "title": null,
+   "subtitle": null,
+   "slides": [
+    {
+     "title": "Boost your productivity by 1% every week with actionable tips delivered straight to your inbox",
+     "subtitle": "Jeff Su",
+     "description": null,
+     "url": "https://www.jeffsu.org/newsletter/"
+    },
+    {
+     "title": "Stop feeling disorganized. Get my curated collection of free toolkits and resources.",
+     "subtitle": "Jeff Su",
+     "description": null,
+     "url": "https://www.jeffsu.org/links/"
+    }
+   ]
+  },
+  "composeOptionType": "UPSELL",
+  "moreProfiles": [
+   {
+    "id": "ACoAABIy6l0BSCeUsSIjqYoJ5Pb-qZ77FD1bVt8",
+    "firstName": "Ali",
+    "lastName": "Abdaal",
+    "position": "👨‍⚕️ Doctor-turned-Entrepreneur + Productivity Expert + YouTuber (6M subs) 📘 New York Times Bestselling Author of “Feel-Good Productivity”",
+    "publicIdentifier": "aliabdaal",
+    "linkedinUrl": "https://www.linkedin.com/in/aliabdaal"
+   }
+  ],
+  "sectionTotals": {
+   "experience": 6,
+   "education": 1,
+   "certifications": 2,
+   "receivedRecommendations": 32,
+   "skills": 18,
+   "courses": 0,
+   "languages": 3,
+   "projects": 0,
+   "volunteering": 1,
+   "publications": 0,
+   "patents": 0,
+   "organizations": 0,
+   "honorsAndAwards": 3,
+   "causes": 0
+  },
+  "interests": [
+   {
+    "interestName": "Top Voices",
+    "elements": [
+     {
+      "title": "Zain Kahn",
+      "subtitle": "Follow me to learn how you can leverage AI to boost your productivity and accelerate your career. Scaled products to 10 Million+ users.",
+      "link": "https://www.linkedin.com/in/zainkahn",
+      "caption": "1,001,439 followers"
+     },
+     {
+      "title": "Ethan Mollick",
+      "subtitle": "Associate Professor at The Wharton School. Author of Co-Existence, coming October 20!",
+      "link": "https://www.linkedin.com/in/emollick",
+      "caption": "436,223 followers"
+     }
+    ]
+   }
+  ],
+  "originalQuery": {
+   "query": "https://www.linkedin.com/in/jsu05"
+  }
+ }
+]

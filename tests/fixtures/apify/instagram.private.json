@@ -1,0 +1,28 @@
+[
+  {
+    "inputUrl": "https://www.instagram.com/sam.private",
+    "id": "4444",
+    "username": "sam.private",
+    "url": "https://www.instagram.com/sam.private",
+    "fullName": "Sam Lee",
+    "biography": "",
+    "followersCount": 312,
+    "followsCount": 290,
+    "postsCount": 57,
+    "highlightReelCount": 0,
+    "igtvVideoCount": 0,
+    "isBusinessAccount": false,
+    "joinedRecently": false,
+    "hasChannel": false,
+    "businessCategoryName": null,
+    "private": true,
+    "verified": false,
+    "externalUrl": null,
+    "externalUrls": [],
+    "profilePicUrl": "https://scontent.cdninstagram.com/v/sam.jpg",
+    "profilePicUrlHD": "https://scontent.cdninstagram.com/v/sam_hd.jpg",
+    "relatedProfiles": [],
+    "latestIgtvVideos": [],
+    "latestPosts": []
+  }
+]

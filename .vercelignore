@@ -1,0 +1,9 @@
+.data
+.env
+.env.*
+!.env.example
+test-results
+playwright-report
+node_modules
+.next
+video

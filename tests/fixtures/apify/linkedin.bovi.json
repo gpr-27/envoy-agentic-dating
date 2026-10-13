@@ -1,0 +1,76 @@
+[
+ {
+  "profile_url": "https://www.linkedin.com/in/jsu05",
+  "slug": "jsu05",
+  "name": "Jeff Su",
+  "first_name": "Jeff",
+  "last_name": "Su",
+  "headline": "Sushie Labs",
+  "job_title": null,
+  "current_company": "Sushie Labs",
+  "current_company_url": "https://hk.linkedin.com/company/sushie-labs",
+  "location": "New York City Metropolitan Area",
+  "country": "US",
+  "education": [
+   {
+    "name": "Emory University - Goizueta Business School",
+    "url": "https://www.linkedin.com/school/goizueta-business-school/",
+    "start": 2010,
+    "end": 2014
+   }
+  ],
+  "experience": [
+   {
+    "name": "Sushie Labs",
+    "url": "https://hk.linkedin.com/company/sushie-labs",
+    "start": null,
+    "end": null
+   },
+   {
+    "name": null,
+    "url": null,
+    "start": null,
+    "end": null
+   },
+   {
+    "name": null,
+    "url": null,
+    "start": null,
+    "end": null
+   },
+   {
+    "name": null,
+    "url": null,
+    "start": null,
+    "end": null
+   },
+   {
+    "name": null,
+    "url": null,
+    "start": null,
+    "end": null
+   },
+   {
+    "name": null,
+    "url": null,
+    "start": null,
+    "end": null
+   }
+  ],
+  "photo_url": "https://media.licdn.com/dms/image/v2/D5603AQEmYEH2_P8UzA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1711179090909?e=2147483647&v=beta&t=B1VHTnZSDoHv_R2q3nJ4nnVY9MNmH1Rf6cDd0axO3jU",
+  "follower_count": 99626,
+  "description": "👋 Hello, I'm Jeff.<br><br>I started my career as a consultant helping big companies make…",
+  "languages": [
+   "English",
+   "Mandarin",
+   "Cantonese"
+  ],
+  "same_as": [
+   "https://www.linkedin.com/in/jsu05"
+  ],
+  "recent_posts": null,
+  "parse_path": "jsonld:facebookexternalhit/1.1",
+  "parse_confidence": 1,
+  "warnings": []
+ }
+]

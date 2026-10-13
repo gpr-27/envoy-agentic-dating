@@ -1,0 +1,14 @@
+# Free Supabase projects pause after ~7 days without traffic. Ping the health
+# endpoint (which does a DB round-trip) every two days so graders never hit a
+# paused database. Set the repository variable SITE_URL to the deployed URL.
+name: Keepalive
+on:
+  schedule:
+    - cron: "23 7 */2 * *"
+  workflow_dispatch:
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping health endpoint
+        run: curl -fsS --retry 3 "${{ vars.SITE_URL }}/api/health"

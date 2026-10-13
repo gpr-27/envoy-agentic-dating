@@ -1,0 +1,81 @@
+[
+  {
+    "inputUrl": "https://www.linkedin.com/in/jane-doe/",
+    "linkedinUrl": "https://www.linkedin.com/in/jane-doe",
+    "publicIdentifier": "jane-doe",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "headline": "Product Designer at Lumen Health | Calm software for anxious moments",
+    "summary": "I design calm software for anxious moments. Ex-architect, weekend trail runner, Saturday drawing teacher. Reach me at jane.doe@example.com or +44 7700 900123 for freelance.",
+    "occupation": "Product Designer at Lumen Health",
+    "geoLocationName": "London, England, United Kingdom",
+    "geoCountryName": "United Kingdom",
+    "industryName": "Design Services",
+    "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQ/profile-displayphoto-shrink_400_400/jane.jpg",
+    "followerCount": 2814,
+    "connectionsCount": 500,
+    "jobTitle": "Product Designer",
+    "companyName": "Lumen Health",
+    "email": "jane.doe@example.com",
+    "phoneNumbers": [{ "type": "MOBILE", "number": "+44 7700 900123" }],
+    "positions": [
+      {
+        "title": "Senior Product Designer",
+        "companyName": "Lumen Health",
+        "description": "Lead designer for the patient app (1.2M users). Built the design system from scratch.",
+        "locationName": "London, United Kingdom",
+        "timePeriod": { "startDate": { "month": 3, "year": 2022 } }
+      },
+      {
+        "title": "UX Designer",
+        "companyName": "Northwind Studio",
+        "description": "Service design for NHS trusts.",
+        "locationName": "Bristol, United Kingdom",
+        "timePeriod": { "startDate": { "month": 9, "year": 2018 }, "endDate": { "month": 2, "year": 2022 } }
+      },
+      {
+        "title": "Architectural Assistant",
+        "companyName": "Hale & Partners",
+        "timePeriod": { "startDate": { "year": 2016 }, "endDate": { "year": 2018 } }
+      }
+    ],
+    "educations": [
+      {
+        "schoolName": "Royal College of Art",
+        "degreeName": "MA",
+        "fieldOfStudy": "Service Design",
+        "timePeriod": { "startDate": { "year": 2017 }, "endDate": { "year": 2018 } }
+      },
+      {
+        "schoolName": "University of Bath",
+        "degreeName": "BSc",
+        "fieldOfStudy": "Architecture",
+        "timePeriod": { "startDate": { "year": 2012 }, "endDate": { "year": 2016 } }
+      }
+    ],
+    "skills": ["Product Design", "Design Systems", "User Research", { "name": "Figma" }, "Service Design"],
+    "languages": [
+      { "name": "English", "proficiency": "Native or bilingual proficiency" },
+      { "name": "Spanish", "proficiency": "Professional working proficiency" }
+    ],
+    "certifications": [{ "name": "Certified Usability Analyst", "authority": "Human Factors International" }],
+    "honors": [{ "title": "D&AD Pencil (Graphite)", "issuer": "D&AD" }],
+    "volunteerExperiences": [{ "role": "Drawing teacher", "companyName": "Camden Community Arts" }]
+  },
+  {
+    "inputUrl": "https://www.linkedin.com/in/rahul-mehta-8b2a1/",
+    "publicIdentifier": "rahul-mehta-8b2a1",
+    "firstName": "Rahul",
+    "lastName": "Mehta",
+    "headline": "Staff Engineer @ Orbital Data · Distributed systems · Climber",
+    "summary": "Backend engineer who likes boring, reliable systems and exciting weekends.",
+    "geoLocationName": "Bengaluru, Karnataka, India",
+    "pictureUrl": "https://media.licdn.com/dms/image/v2/rahul.jpg",
+    "followerCount": "1,203",
+    "positions": [
+      { "title": "Staff Software Engineer", "companyName": "Orbital Data", "timePeriod": { "startDate": { "month": 1, "year": 2021 } } }
+    ],
+    "educations": [{ "schoolName": "IIT Bombay", "degreeName": "B.Tech", "fieldOfStudy": "Computer Science" }],
+    "skills": ["Go", "Kubernetes"]
+  }
+]
